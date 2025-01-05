@@ -1,4 +1,8 @@
 '''
+It is a pattern asked in Webkul - Python Developer, pattern printing round
+
+Hope It'll help ;)
+
 here's the pattern that the following program will print : 
 
 1. it should work only for odd number
