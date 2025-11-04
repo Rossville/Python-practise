@@ -6,7 +6,6 @@ def Subarr_sum(arr: List[int], st:int, end:int) -> int:
         total += arr[i]
     return total
 
-
 def subArr(arr: List[int]) -> List[int]:
     # subarr_list: List[dict[str, int]] = [{startingIndex: ,EndingIndex: ,sum: }]
     subarr_list: List[dict[str, int]] = []

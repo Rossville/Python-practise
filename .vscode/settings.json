@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./typings/scipy/_lib/array_api_compat"
+    ]
+}
